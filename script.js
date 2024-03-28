@@ -4,8 +4,3 @@ function toggleMenu() {
   menu.classList.toggle("open");
   icon.classList.toggle("open");
 }
-
-
-function add(a,b) { 
-    return a+b;
-}
